@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ngneat/elf": "^1.0.0-beta.5",
+    "@ngneat/elf-cli-ng": "^1.0.0-beta.1",
+    "@ngneat/elf-devtools": "^1.0.0-beta.4",
+    "@ngneat/elf-entities": "^1.0.0-beta.10",
+    "@ngneat/elf-requests": "^1.0.0-beta.13",
+    "@ngneat/react-rxjs": "^1.0.0-beta.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
