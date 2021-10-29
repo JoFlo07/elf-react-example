@@ -1,11 +1,10 @@
-import React from 'react';
 import './App.css';
-import AutocompleteCompomnent from './components/Autocomplete/AutocompleteComponent';
+import FormCompomnent from './components/FormComponent/FormComponent';
 
 function App() {
   return (
    <div className="main">
-    <AutocompleteCompomnent />
+    <FormCompomnent />
    </div>
   );
 }
